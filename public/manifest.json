@@ -1,0 +1,23 @@
+{
+    "name": "ARMİNA - Güvenlik Personel Sistemi",
+    "short_name": "ARMİNA",
+    "description": "Güvenlik Personel Operasyon Sistemi",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#030712",
+    "theme_color": "#030712",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/shield.svg",
+            "sizes": "192x192 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "business",
+        "productivity"
+    ],
+    "lang": "tr"
+}
